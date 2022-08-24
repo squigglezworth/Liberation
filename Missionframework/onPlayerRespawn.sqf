@@ -2,6 +2,10 @@ waitUntil {!isNil "KPLIB_initServer"};
 
 params ["_newUnit", "_oldUnit"];
 
+if (!isNil "KP_liberation_disconnectUAV_on_death") then {
+    getConnectedUAV _oldunit action ["UAVTerminalReleaseConnection", _oldunit];
+};
+
 if (isNil "GRLIB_respawn_loadout") then {
     removeAllWeapons player;
     removeAllItems player;
