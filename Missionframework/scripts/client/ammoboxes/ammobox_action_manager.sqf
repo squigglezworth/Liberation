@@ -61,7 +61,7 @@ while {true} do {
                     true,
                     true,
                     "",
-                    "build_confirmed == 0 && (_this distance _target < 5) && (vehicle player == player)"];
+                    "build_confirmed == 0 && (_this distance _target < 7) && (vehicle player == player)"];
                 _b_action_id1 = _next_box addAction [
                     "<t color='#FFFF00'>" + localize "STR_ACTION_LOAD_BOX" + "</t>",
                     {[_this select 0] call do_load_box;},
@@ -70,7 +70,7 @@ while {true} do {
                     true,
                     true,
                     "",
-                    "build_confirmed == 0 && (_this distance _target < 5) && (vehicle player == player)"];
+                    "build_confirmed == 0 && (_this distance _target < 7) && (vehicle player == player)"];
                 _b_action_id3 = _next_box addAction [
                     "<t color='#FFFF00'>" + localize "STR_ACTION_CRATE_VALUE" + "</t>",
                     {[_this select 0] call KPLIB_fnc_checkCrateValue;uiSleep 3; hint "";},
@@ -79,7 +79,7 @@ while {true} do {
                     true,
                     true,
                     "",
-                    "build_confirmed == 0 && (_this distance _target < 5) && (vehicle player == player)"];
+                    "build_confirmed == 0 && (_this distance _target < 7) && (vehicle player == player)"];
                 _b_action_id4 = _next_box addAction [
                     "<t color='#FFFF00'>" + localize "STR_ACTION_CRATE_PUSH" + "</t>",
                     {(_this select 0) setPos ((_this select 0) getPos [1, (player getDir (_this select 0))]);},
