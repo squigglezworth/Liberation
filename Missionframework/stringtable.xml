@@ -1486,6 +1486,9 @@
             <Korean>군수물자 생산 비율</Korean>
             <Czech>Násobitel zdrojů</Czech>
         </Key>
+        <Key ID="STR_PARAMS_DISCONNECTUAV">
+            <Original>Disconnect from UAV on death</Original>
+        </Key>
         <Key ID="STR_PARAMS_FATIGUE">
             <Original>Stamina</Original>
             <French>Stamina</French>

@@ -79,6 +79,7 @@ if(isServer) then {
 
     // Gameplay Options
     ["--- Gameplay Options ---", "PARAM"] call KPLIB_fnc_log;
+    GET_PARAM_BOOL(KP_liberation_disconnectUAV_on_death, "DisconnectUAV", 1);
     GET_PARAM_BOOL(GRLIB_fatigue, "Fatigue", 1);
     GET_PARAM_BOOL(KPLIB_sway, "WeaponSway", 1);
     GET_PARAM_BOOL(KP_liberation_arsenalUsePreset, "ArsenalUsePreset", 1);
