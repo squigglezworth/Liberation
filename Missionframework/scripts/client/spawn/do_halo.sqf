@@ -1,4 +1,4 @@
-params [ "_squad" ];
+params ["_target", "_caller", "_actionId", "_arguments"];
 
 private [ "_dialog", "_backpack", "_backpackcontents" ];
 
@@ -54,7 +54,9 @@ if ( dojump > 0 ) then {
     };
     
     [player,  halo_position] spawn paraDrop;
-    if (!isNil "_squad") then {
+
+    _do_squad = _this select 3;
+    if (!isNil "_do_squad") then {
         {
             if ( round (_x distance2D _player_pos) <= 30 && lifestate _x != 'INCAPACITATED' && vehicle _x == _x && !(isPlayer _x) ) then {
                 [_x,  halo_position] spawn paraDrop;
