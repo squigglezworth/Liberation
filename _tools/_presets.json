@@ -1,7 +1,7 @@
 [
     {
-        "sourceFolder": "kp_liberation.Altis",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Altis",
+        "missionName": "Liberation",
         "map": "Altis",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -10,12 +10,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1578862234"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Chernarus",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Chernarus",
+        "missionName": "Liberation",
         "map": "Chernarus",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -24,12 +23,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "880462893"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Chernarus_Winter",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Chernarus_Winter",
+        "missionName": "Liberation",
         "map": "Chernarus_Winter",
         "mapDisplay": "Chernarus Winter",
         "configFile": "kp_liberation_config.sqf",
@@ -39,12 +37,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1598002157"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Enoch",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Enoch",
+        "missionName": "Liberation",
         "map": "Enoch",
         "mapDisplay": "Livonia",
         "configFile": "kp_liberation_config.sqf",
@@ -54,12 +51,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1816049282"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.gm_weferlingen_summer",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.gm_weferlingen_summer",
+        "missionName": "Liberation",
         "map": "gm_weferlingen_summer",
         "mapDisplay": "Weferlingen",
         "configFile": "kp_liberation_config.sqf",
@@ -69,12 +65,11 @@
             "KP_liberation_preset_resistance": 5,
             "KP_liberation_preset_civilians": 4,
             "KP_liberation_arsenal": 4
-        },
-        "workshopId": "1737367431"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.gm_weferlingen_winter",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.gm_weferlingen_winter",
+        "missionName": "Liberation",
         "map": "gm_weferlingen_winter",
         "mapDisplay": "Weferlingen Winter",
         "configFile": "kp_liberation_config.sqf",
@@ -84,12 +79,11 @@
             "KP_liberation_preset_resistance": 5,
             "KP_liberation_preset_civilians": 4,
             "KP_liberation_arsenal": 4
-        },
-        "workshopId": "1737368152"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.lythium",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.lythium",
+        "missionName": "Liberation",
         "map": "lythium",
         "mapDisplay": "Lythium",
         "configFile": "kp_liberation_config.sqf",
@@ -99,12 +93,11 @@
             "KP_liberation_preset_resistance": 3,
             "KP_liberation_preset_civilians": 2,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1226882826"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Malden",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Malden",
+        "missionName": "Liberation",
         "map": "Malden",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -113,12 +106,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1737370963"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.panthera3",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.panthera3",
+        "missionName": "Liberation",
         "map": "panthera3",
         "mapDisplay": "Panthera",
         "configFile": "kp_liberation_config.sqf",
@@ -128,12 +120,11 @@
             "KP_liberation_preset_resistance": 8,
             "KP_liberation_preset_civilians": 7,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "1816045062"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.pja310",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.pja310",
+        "missionName": "Liberation",
         "map": "pja310",
         "mapDisplay": "Al Rayak",
         "configFile": "kp_liberation_config.sqf",
@@ -143,12 +134,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "934734065"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Sara",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Sara",
+        "missionName": "Liberation",
         "map": "Sara",
         "mapDisplay": "Sahrani",
         "configFile": "kp_liberation_config.sqf",
@@ -158,12 +148,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "930514473"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.song_bin_tanh",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.song_bin_tanh",
+        "missionName": "Liberation",
         "map": "song_bin_tanh",
         "mapDisplay": "Song Bin Tanh",
         "configFile": "kp_liberation_config.sqf",
@@ -173,12 +162,11 @@
             "KP_liberation_preset_resistance": 6,
             "KP_liberation_preset_civilians": 5,
             "KP_liberation_arsenal": 7
-        },
-        "workshopId": "1816042577"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Takistan",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Takistan",
+        "missionName": "Liberation",
         "map": "Takistan",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -187,12 +175,11 @@
             "KP_liberation_preset_resistance": 3,
             "KP_liberation_preset_civilians": 2,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "878715681"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Tanoa",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.Tanoa",
+        "missionName": "Liberation",
         "map": "Tanoa",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -201,12 +188,11 @@
             "KP_liberation_preset_resistance": 1,
             "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": "884703460"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.xcam_taunus",
-        "missionName": "kp_liberation",
+        "sourceFolder": "liberation.xcam_taunus",
+        "missionName": "Liberation",
         "map": "xcam_taunus",
         "mapDisplay": "Taunus",
         "configFile": "kp_liberation_config.sqf",
@@ -216,12 +202,11 @@
             "KP_liberation_preset_resistance": 0,
             "KP_liberation_preset_civilians": 0,
             "KP_liberation_arsenal": 9
-        },
-        "workshopId": "884705418"
+        }
     },
     {
-        "sourceFolder": "kp_liberation.gm_weferlingen_summer",
-        "missionName": "kp_liberation_east",
+        "sourceFolder": "liberation.gm_weferlingen_summer",
+        "missionName": "Liberation_east",
         "map": "gm_weferlingen_summer",
         "mapDisplay": "Weferlingen",
         "configFile": "kp_liberation_config.sqf",
@@ -231,12 +216,11 @@
             "KP_liberation_preset_resistance": 5,
             "KP_liberation_preset_civilians": 4,
             "KP_liberation_arsenal": 5
-        },
-        "workshopId": ""
+        }
     },
     {
-        "sourceFolder": "kp_liberation.gm_weferlingen_winter",
-        "missionName": "kp_liberation_east",
+        "sourceFolder": "liberation.gm_weferlingen_winter",
+        "missionName": "Liberation_east",
         "map": "gm_weferlingen_winter",
         "mapDisplay": "Weferlingen Winter",
         "configFile": "kp_liberation_config.sqf",
@@ -246,12 +230,11 @@
             "KP_liberation_preset_resistance": 5,
             "KP_liberation_preset_civilians": 4,
             "KP_liberation_arsenal": 5
-        },
-        "workshopId": ""
+        }
     },
     {
-        "sourceFolder": "kp_liberation.Takistan",
-        "missionName": "kp_liberation_afrf",
+        "sourceFolder": "liberation.Takistan",
+        "missionName": "Liberation_afrf",
         "map": "Takistan",
         "configFile": "kp_liberation_config.sqf",
         "variables": {
@@ -260,7 +243,6 @@
             "KP_liberation_preset_resistance": 3,
             "KP_liberation_preset_civilians": 2,
             "KP_liberation_arsenal": 0
-        },
-        "workshopId": ""
+        }
     }
 ]

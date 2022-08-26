@@ -87,7 +87,7 @@ for (let preset of presets) {
                     }
 
                     // add version number and map name to mission name
-                    return content.replace(nameRegex, `$1CTI 34 KP Liberation ${preset.mapDisplay || preset.map} ${version}$3`);
+                    return content.replace(nameRegex, `$1Liberation ${preset.mapDisplay || preset.map}$3`);
                 }))
                 .pipe(gulp.dest(mission.getOutputDir(), { overwrite: true, }))
             ;
@@ -168,7 +168,7 @@ gulp.task('pbo', gulp.series(taskNamesPbo));
 
 gulp.task('zip', gulp.series(taskNamesZip));
 
-gulp.task('workshop', gulp.series(taskNamesWorkshop));
+// gulp.task('workshop', gulp.series(taskNamesWorkshop));
 
 gulp.task('default',
     gulp.series(
