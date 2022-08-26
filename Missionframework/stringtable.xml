@@ -2829,6 +2829,9 @@
             <Korean>-- 공수 낙하</Korean>
             <Czech>-- HALO SKOK</Czech>
         </Key>
+        <Key ID="STR_HALO_SQUAD_ACTION">
+            <Original>-- HALO JUMP WITH SQUAD</Original>
+        </Key>
         <Key ID="STR_HALO_TITLE">
             <Original>HALO JUMP</Original>
             <French>SAUT HALO</French>
